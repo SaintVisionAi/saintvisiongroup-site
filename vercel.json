@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "routes": [{ "handle": "filesystem" }],
   "headers": [
     {
       "source": "/(.*)",
